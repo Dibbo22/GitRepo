@@ -18,7 +18,7 @@ public class Day1 {
 	@BeforeClass
 	public void Beforeclass()
 	{
-		System.out.println("i am before class");
+		
 	}
 	@Test(groups= {"smoke"})
 	public void SecondTest() {
