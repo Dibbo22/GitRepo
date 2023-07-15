@@ -12,6 +12,7 @@ public class Day1 {
 	public void Demo(String url) {
 		
 		System.out.println(url);
+		System.out.println("First Change");
 		
 	}
 	@BeforeClass
